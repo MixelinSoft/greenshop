@@ -1,7 +1,8 @@
 import styles from './Home.module.css';
+import PromoSection from './PromoSection/PromoSection';
 
 const Home = (props) => {
-  return <div>Home</div>;
+  return <PromoSection />;
 };
 
 export default Home;

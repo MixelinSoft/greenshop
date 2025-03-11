@@ -10,4 +10,5 @@
   padding-top: 25px;
   display: flex;
   justify-content: space-between;
+  border-bottom: 0.3px solid #46a35880;
 }
