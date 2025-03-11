@@ -1,0 +1,10 @@
+.menu {
+  display: flex;
+  align-items: center;
+}
+.menuItem {
+  height: 100%;
+}
+.menuItem:not(:last-child) {
+  margin-right: 50px;
+}

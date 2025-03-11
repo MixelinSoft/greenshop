@@ -1,0 +1,13 @@
+.headerContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.header {
+  height: 78px;
+  padding-top: 25px;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,20 @@
+.menuItem {
+  display: block;
+  color: #3d3d3d;
+  height: 100%;
+  border: none;
+  font-size: 16px;
+
+  transition: font-weight 0.2s ease-in-out, border-bottom 0.2s ease-in-out;
+
+  cursor: pointer;
+}
+
+.menuItem:hover {
+  color: #46a358;
+}
+
+.active {
+  font-weight: bold;
+  border-bottom: 2px solid #46a358;
+}
